@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0011-container-with-most-water) |
+| [0005-longest-palindromic-substring](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0005-longest-palindromic-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -22,4 +23,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
