@@ -34,4 +34,8 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0647-palindromic-substrings) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
