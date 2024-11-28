@@ -39,4 +39,5 @@
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1908-recyclable-and-low-fat-products) |
 | [0584-find-customer-referee](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
