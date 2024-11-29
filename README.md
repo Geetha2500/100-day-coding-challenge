@@ -43,4 +43,5 @@
 | [1258-article-views-i](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1827-invalid-tweets) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1801-average-time-of-process-per-machine](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
