@@ -45,4 +45,5 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1801-average-time-of-process-per-machine](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1801-average-time-of-process-per-machine) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1153-product-sales-analysis-i](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
