@@ -55,4 +55,5 @@
 | [0620-not-boring-movies](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0620-not-boring-movies) |
 | [1390-average-selling-price](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1390-average-selling-price) |
 | [1161-project-employees-i](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1161-project-employees-i) |
+| [1338-queries-quality-and-percentage](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1338-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
