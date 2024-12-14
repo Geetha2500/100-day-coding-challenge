@@ -54,4 +54,5 @@
 | [2087-confirmation-rate](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/2087-confirmation-rate) |
 | [0620-not-boring-movies](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0620-not-boring-movies) |
 | [1390-average-selling-price](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1390-average-selling-price) |
+| [1161-project-employees-i](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1161-project-employees-i) |
 <!---LeetCode Topics End-->
