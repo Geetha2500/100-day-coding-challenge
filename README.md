@@ -58,4 +58,5 @@
 | [1338-queries-quality-and-percentage](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1338-queries-quality-and-percentage) |
 | [1317-monthly-transactions-i](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1317-monthly-transactions-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1292-immediate-food-delivery-ii) |
+| [1182-game-play-analysis-iv](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
