@@ -61,4 +61,5 @@
 | [1182-game-play-analysis-iv](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1182-game-play-analysis-iv) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [0596-classes-more-than-5-students](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
