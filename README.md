@@ -68,4 +68,5 @@
 | [1135-customers-who-bought-all-products](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1135-customers-who-bought-all-products) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1942-primary-department-for-each-employee) |
+| [0610-triangle-judgement](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
