@@ -67,4 +67,5 @@
 | [0619-biggest-single-number](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1135-customers-who-bought-all-products) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
