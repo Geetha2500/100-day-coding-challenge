@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0242-valid-anagram) |
 ## Union Find
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0647-palindromic-substrings) |
+| [0242-valid-anagram](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 | [1942-primary-department-for-each-employee](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1942-primary-department-for-each-employee) |
 | [0610-triangle-judgement](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0610-triangle-judgement) |
 | [0180-consecutive-numbers](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0180-consecutive-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
