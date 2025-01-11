@@ -83,6 +83,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
