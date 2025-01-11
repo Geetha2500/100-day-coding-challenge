@@ -32,6 +32,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0647-palindromic-substrings) |
 | [0242-valid-anagram](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0242-valid-anagram) |
+| [0067-add-binary](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +82,13 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
