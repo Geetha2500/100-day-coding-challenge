@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0066-plus-one](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0066-plus-one) |
+| [0001-two-sum](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0242-valid-anagram) |
+| [0001-two-sum](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0001-two-sum) |
 ## Union Find
 |  |
 | ------- |
