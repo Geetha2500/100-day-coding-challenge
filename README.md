@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0066-plus-one](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0066-plus-one) |
 | [0001-two-sum](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +99,5 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0069-sqrtx) |
+| [0035-search-insert-position](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
