@@ -9,12 +9,14 @@
 | [0066-plus-one](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0066-plus-one) |
 | [0001-two-sum](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0011-container-with-most-water) |
 | [0005-longest-palindromic-substring](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0647-palindromic-substrings) |
+| [0283-move-zeroes](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
