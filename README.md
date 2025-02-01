@@ -81,6 +81,7 @@
 | [0180-consecutive-numbers](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0180-consecutive-numbers) |
 | [1278-product-price-at-a-given-date](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [2057-count-salary-categories](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/2057-count-salary-categories) |
 ## Sorting
 |  |
 | ------- |
