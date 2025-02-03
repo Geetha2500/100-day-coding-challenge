@@ -110,4 +110,9 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0908-middle-of-the-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Geetha2500/100-day-coding-challenge/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
